@@ -1,4 +1,4 @@
-# Inflation vs E-Commerce Sales Data Warehouse
+# CPI vs E-Commerce Sales Data Warehouse
 
 ## Project Overview
 
@@ -293,4 +293,4 @@ Possible future extensions:
 
 Rodrigo Carranza
 
-GitHub: https://github.com/rogos14
+GitHub: https://github.com/rogos14?tab=repositories
